@@ -5,8 +5,7 @@ def scrape():
     source = requests.get('http://lyrics.ghospel.com/akan-songs/').text
     soup = BeautifulSoup(source, 'lxml')
     with open('lyrics_scrape.csv', 'w', newline='', encoding="utf-8") as csvfile:
-        spamwriter = csv.writer(csvfile, delimiter=' ',
-                                quotechar='|', quoting=csv.QUOTE_MINIMAL)
+        spamwriter = csv.writer(csvfile, delimiter=',', lineterminator = '+++')
         spamwriter.writerow(['song_title', 'lyrics'])
         links = soup.find('div', 'p', 'title', class_ = 'entry-content clearfix')
         for link in links.find_all('a'):
