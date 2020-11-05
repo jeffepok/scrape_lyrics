@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "politicalsentiment-294117",
+  "private_key_id": "2f86ca63dd3e37ec3e6362694da428b4fbed6b83",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCT6RWg7FGtLZHT\nfpYHl0VSoRV8Vlh33ZaLVxoJbhvoiKg+P6gpxeqjI7bys9sneLWINUz028TP5MCh\nkIzOneVQ9pGwha7ev46tKXiajhmBFwdEZEb/kAH8BtHh/yhvHQLKgxmDDUYkHWux\n79QZwRSVjRzFojHv8fKd53qX0mwtrl1F19RULtoEO0aT+SIOfdASQPajC0WhkiNg\n6ok7engvbL9BVLz2cTSCvoCbQSx8xOgFrjt68UCL+UrfZ8ybfm2pSIaIOkLr5/ed\n4hBIsmFRbhUC5U9z2sTeuUmHXfjjiZSueljFCBGgWIK7XoI9Hm3HArChg773VCHP\nT5k3QpatAgMBAAECggEACAPwE53q2S8ogWURPU0RySYIk4ncVnaQI3Hva8ZnRcUu\nFN1/P/BFRFz5m5JqlGuCruRwjK5iLn/vfnHmZ4X/+NC72WyNKu4HjdO7AOklcazt\nTGQAwvWrXdyCwDQDHW5didrr5YGxJODhRq2/+TtQ4b/ZaM5e1Wlvo+X460RQb3M3\n7EtW/yuTC+KQFDeeHyJoYxmtfkswcXQCBuNTgvTrWAfLeVuolTlgrj3TJyHgR6nw\naLMlPk/g792SdAMk8fSvyE9m60OBTvzeK9Yifn3QupHrodTfdO/ur6n5b7idsX4D\nRt45zKwt+xArB6RWKNAaMikug2yscNu1PGEndz/i0QKBgQDE3oZcWGi5XB2+H31P\nLmyWvVQR1+fS1LNrSeLD5A+fr2aZymQgI6bmNQTcm65YSVmNVC/sCmUs23hHiOnR\nLptU09vBPniMat/JEkuC9SuXe46Yc1SvY/I/h4Xk42dSP1dW5f8UrkkDJnhmNNSn\nRewbIQPtlbWv9+ORk8BTGITcuQKBgQDAVhJW+Be1gmiSvhn71flBS9adEuIWvbNB\nRRn6lv+1uVr8nnepstMbVTioN94gB0oMCqe5w5O8WCFotyW4dChsROMBSNxzQHg4\n39SE2PblfLuJ/GiihtDedp31nqlijUuYSntKOSGLvMsFSu+mVbaqSAt4yzStZWzh\nZBPqlSWXlQKBgBtP08wT59NvWCD8NWI6yo3PDk67aUnygEGuKmuKxDAfIVjMnz9m\nMs1VJauFXZaZ9naI620PtCGZAQLLl8SRdrM6AQ66H/c7DHjUtO0iHj4RwiKcPW9n\nqj/uCUFL2xWp++/uUIkJ9M8fEyz6v1XFeY/58JWRY3daKJQVr2TXzfbhAoGAHFXR\n19wu6f+vVkcJXu+UDAmXMYbRphYGbYw3mpJaU7Rd8i+KY4bD0RgKA8ZPRBquzv1W\n3mgwwKOfMGUi+nyqY+D2LH9GcvhBfeeD0JqCLSbmHhsAc0k3Rj7lYIUiYTF9vI7k\ngPfPuF1072+txKyF/6ojfoU5Wn5BvybWRE36vs0CgYArY17gpsAruJOcCxn5i0xp\n6BL2Vh9uNM+Bs03o4eb61oq8KjF7glWGxpAE572qeztTBEVFe9+A7ORkxR3B6P58\nGoHPwJMlpdnh/knWu+0mw5JBFnMyqq6y9NHkysp64DVjzisDiKJ1Zml27hPCGOWm\nXfICcg3pnw+/kdXdzu9IXw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tuffourjefferson@politicalsentiment-294117.iam.gserviceaccount.com",
+  "client_id": "109745716619945821509",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tuffourjefferson%40politicalsentiment-294117.iam.gserviceaccount.com"
+}
